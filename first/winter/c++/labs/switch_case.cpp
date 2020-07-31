@@ -7,7 +7,7 @@ int main()
 {
       char animal;
 
-      cout << "Write first letter";
+      cout << "Write first letter ";
 
       cin >> animal;
 
